@@ -1,1 +1,1 @@
- <?php include("assignment6.html");
+ <?php include("finaltest.html");
